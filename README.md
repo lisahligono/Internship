@@ -4,6 +4,10 @@ This report presents the outcomes of my internship that aimed to explore and enh
 ## TASKS DESCRIPTION
 From March to May 2023, I engaged in a three-month internship opportunity, funded by the Christian Doppler Society. This enriching experience took place within the GeoHUM CDL laboratory. A notable aspect of this internship was its collaborative nature, as I had the privilege of working alongside the dedicated professionals of Doctors Without Borders/Médecins Sans Frontières (MSF) Austria. I committed 20 hours per week to delve into various tasks extensively described in the next sections. My primary responsibility encompassed providing essential support in the execution of tests on datasets with potential applicability in emergency scenarios. This role became especially pertinent during two significant events in which Médecins Sans Frontières (MSF) participated: the Turkey-Syria earthquake and the flooding crisis in Mozambique. 
 ## TASK 1: DEVELOPMENT OF A FLOODS CATALOGUE 
+
+![intern](https://github.com/lisahligono/Internship/assets/72496335/c1c2c0fa-9e82-4423-a40e-bd8a26add626)
+
+
 The initial task involved a systematic exploration of existing datasets with the aim of constructing a comprehensive catalogue focused on floods. This effort aimed to collate pertinent information and parameters associated with flooding incidents. The emphasis was placed on curating global datasets that could significantly contribute to informed decision-making and disaster response strategies at an event of a flood.
 ## TASK 2: EXPLORATION OF NIGHT-TIME LIGHT DATASETS
 The next task encompassed an in-depth investigation of datasets capturing night-time light emissions. This was an experiment in trying to establish whether satellite NTL datasets can aid in the mapping of new settlements after a disaster. 
